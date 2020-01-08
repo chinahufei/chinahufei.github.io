@@ -354,6 +354,7 @@ blockquote {
 }
 .article-container .highlight .line {
   height: 1rem;
+  line-height: 1rem;
 }
 .article-container .gutter {
   -webkit-user-select: none;
