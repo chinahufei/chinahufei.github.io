@@ -2,30 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chinahufei.coding.me/2020/02/23/Hive%E7%AA%97%E5%8F%A3%E5%88%86%E6%9E%90%E5%87%BD%E6%95%B0/</loc>
+    <loc>http://chinahufei.coding.me/2020/03/09/Sqoop%E4%BD%BF%E7%94%A8/</loc>
     
-    <lastmod>2020-02-23T01:13:18.619Z</lastmod>
+    <lastmod>2020-03-11T18:38:01.567Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/12/02/%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85Mysql/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.567Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/12/01/%E4%BC%81%E4%B8%9A%E7%94%A8%E8%87%AA%E5%BB%BAGit%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.567Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/11/29/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E9%87%8D%E8%A6%81%E5%91%BD%E4%BB%A4/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.567Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/01/13/hadoop%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98%E5%90%88%E9%9B%86/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.567Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://chinahufei.coding.me/2019/01/05/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/</loc>
     
-    <lastmod>2020-02-23T01:13:18.619Z</lastmod>
+    <lastmod>2020-03-11T18:38:01.567Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://chinahufei.coding.me/2020/02/20/Flume%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/</loc>
+    <loc>http://chinahufei.coding.me/2020/03/12/Spark%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91/</loc>
     
-    <lastmod>2020-02-23T01:13:18.618Z</lastmod>
+    <lastmod>2020-03-11T18:38:01.566Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2020/03/07/Linux%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%8F%8A%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.566Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2020/02/12/MapReduce%E8%BF%90%E8%A1%8C%E8%A7%A3%E5%AF%86/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.566Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/01/06/Spark%E7%A4%BE%E5%8C%BA%E5%8D%9A%E5%AE%A2%E5%90%88%E9%9B%86/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.566Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2020/03/11/HDFS%E6%9E%B6%E6%9E%84%E5%92%8CYarn%E6%9E%B6%E6%9E%84/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2020/03/09/HUE%E9%9B%86%E6%88%90Hadoop%E3%80%81Hive%E3%80%81Yarn/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2020/02/23/Hive%E7%AA%97%E5%8F%A3%E5%88%86%E6%9E%90%E5%87%BD%E6%95%B0/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/12/23/HDFS%E6%93%8D%E4%BD%9C%E5%90%88%E9%9B%86/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/12/06/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2020/02/20/Flume%E4%BD%BF%E7%94%A8/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.564Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chinahufei.coding.me/2019/12/04/CDH5.16.1%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/</loc>
+    
+    <lastmod>2020-03-11T18:38:01.564Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://chinahufei.coding.me/2019/01/05/CDH5-12%E5%8D%95%E5%8F%B0%E4%BC%AA%E5%88%86%E5%B8%83%E5%BC%8F%E6%90%AD%E5%BB%BA/</loc>
     
-    <lastmod>2020-02-23T01:13:18.618Z</lastmod>
+    <lastmod>2020-03-11T18:38:01.564Z</lastmod>
     
   </url>
   
@@ -44,56 +142,7 @@
   </url>
   
   <url>
-    <loc>http://chinahufei.coding.me/2019/01/13/hadoop%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%98%E5%90%88%E9%9B%86/</loc>
-    
-    <lastmod>2020-02-12T09:54:48.723Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chinahufei.coding.me/2019/01/06/Spark%E7%A4%BE%E5%8C%BA%E5%8D%9A%E5%AE%A2%E5%90%88%E9%9B%86/</loc>
-    
-    <lastmod>2020-02-12T09:54:48.722Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chinahufei.coding.me/2020/02/12/MapReduce%E8%BF%90%E8%A1%8C%E8%A7%A3%E5%AF%86/</loc>
-    
-    <lastmod>2020-02-12T09:54:48.721Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chinahufei.coding.me/2019/12/23/HDFS%E6%93%8D%E4%BD%9C%E5%90%88%E9%9B%86/</loc>
-    
-    <lastmod>2020-02-12T09:54:48.721Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chinahufei.coding.me/2019/11/29/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E9%87%8D%E8%A6%81%E5%91%BD%E4%BB%A4/</loc>
-    
-    <lastmod>2020-01-09T03:43:20.793Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://chinahufei.coding.me/2019/12/08/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B8%B8%E7%94%A8shell%E8%84%9A%E6%9C%AC/</loc>
-    
-    <lastmod>2020-01-06T15:40:15.413Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chinahufei.coding.me/2019/12/02/%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%A6%BB%E7%BA%BF%E5%AE%89%E8%A3%85Mysql/</loc>
-    
-    <lastmod>2020-01-06T15:40:15.413Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chinahufei.coding.me/2019/12/01/%E4%BC%81%E4%B8%9A%E7%94%A8%E8%87%AA%E5%BB%BAGit%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
     
     <lastmod>2020-01-06T15:40:15.413Z</lastmod>
     
@@ -107,21 +156,7 @@
   </url>
   
   <url>
-    <loc>http://chinahufei.coding.me/2019/12/06/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2020-01-06T15:40:15.412Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://chinahufei.coding.me/2019/12/08/CDH%E6%90%AD%E5%BB%BA%E9%97%AE%E9%A2%98%E5%90%88%E9%9B%86/</loc>
-    
-    <lastmod>2020-01-06T15:40:15.411Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chinahufei.coding.me/2019/12/04/CDH5.16.1%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA/</loc>
     
     <lastmod>2020-01-06T15:40:15.411Z</lastmod>
     
